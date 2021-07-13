@@ -2,8 +2,8 @@ public class Test {
 
     public static void main(String[] args){
 
-        double a = 1;
-        double b = 3;
+        double a = 123;
+        double b = 321;
 
         double zoo = a/b;
 
