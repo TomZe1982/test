@@ -2,10 +2,10 @@ public class Test {
 
     public static void main(String[] args){
 
-        int a = 5;
-        int b = 6;
+        double a = 1;
+        double b = 3;
 
-        int zoo = a-b;
+        double zoo = a/b;
 
 
         System.out.println(zoo);
